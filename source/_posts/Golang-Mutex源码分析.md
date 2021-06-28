@@ -3,7 +3,9 @@ title: Golang Mutex源码分析
 tags:
   - 技术
   - Go语言
-categories: 技术
+categories: 
+  - 技术
+  - Go语言
 comments: true
 abbrlink: e65f8f8e
 date: 2021-03-29 23:12:56

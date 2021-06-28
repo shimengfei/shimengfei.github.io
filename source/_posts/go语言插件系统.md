@@ -3,7 +3,9 @@ title: go语言插件系统
 tags:
   - 技术
   - Go语言
-categories: 技术
+categories: 
+  - 技术
+  - Go语言
 comments: true
 cover: 'https://cdn.jsdelivr.net/gh/shimengfei/cdn/guidao/1.png'
 abbrlink: cd337a10

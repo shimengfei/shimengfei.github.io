@@ -3,7 +3,9 @@ title: Golang sync 包分析
 tags:
   - 技术
   - Go语言
-categories: 技术
+categories: 
+  - 技术
+  - Go语言
 comments: true
 abbrlink: 8d0aa32e
 date: 2021-03-24 22:54:46

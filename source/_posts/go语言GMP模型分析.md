@@ -5,7 +5,9 @@ avatar: 'https://cdn.jsdelivr.net/gh/shimengfei/cdn/img/lover.jpg'
 authorLink: shimengfei.github.io
 authorAbout: stone
 authorDesc: stone
-categories: 技术
+categories: 
+  - 技术
+  - Go语言
 comments: true
 photos: 'https://cdn.jsdelivr.net/gh/shimengfei/cdn/img/lover.jpg'
 abbrlink: 19049

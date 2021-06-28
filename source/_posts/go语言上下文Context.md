@@ -3,7 +3,9 @@ title: go语言上下文Context
 tags:
   - 技术
   - Go语言
-categories: 技术
+categories: 
+  - 技术
+  - Go语言
 comments: true
 cover: 'https://cdn.jsdelivr.net/gh/shimengfei/cdn/guidao/2.png'
 abbrlink: 881e81b3
