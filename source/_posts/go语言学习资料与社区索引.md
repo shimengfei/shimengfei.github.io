@@ -3,7 +3,9 @@ title: go语言学习资料与社区索引
 tags:
   - 技术
   - Go语言
-categories: 技术
+categories: 
+  - 技术
+  - 资源备忘录
 comments: true
 cover: 'https://cdn.jsdelivr.net/gh/shimengfei/cdn/guidao/8.png'
 abbrlink: 59b44c83
