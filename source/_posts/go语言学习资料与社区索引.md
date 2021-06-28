@@ -5,7 +5,7 @@ tags:
   - Go语言
 categories: 技术
 comments: true
-cover: 'https://cdn.jsdelivr.net/gh/shimengfei/cdn/guidao/12.png'
+cover: 'https://cdn.jsdelivr.net/gh/shimengfei/cdn/guidao/8.png'
 abbrlink: 59b44c83
 date: 2021-06-26 00:54:27
 ---
